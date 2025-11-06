@@ -94,7 +94,7 @@ export default function Home() {
             <AccountCard
               email="xeyak78808@fandoe.com"
               password="zalo0385531007"
-              description={t("account.pro", language)}
+              description={t("account.hma", language)}
               updatedAt="5 mins ago"
               accessCount={32}
               language={language}
