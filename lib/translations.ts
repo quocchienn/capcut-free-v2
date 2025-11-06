@@ -14,7 +14,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Accounts Section
     "accounts.title": "Available Accounts",
-    "account.premium": "Premium Account",
+    "account.premium": "Pro Account",
     "account.pro": "Pro Account",
     "account.team": "Team Account",
     "account.email": "Email",
@@ -50,7 +50,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Accounts Section
     "accounts.title": "Tài Khoản Có Sẵn",
-    "account.premium": "Tài Khoản Premium",
+    "account.premium": "Tài Khoản ProPro",
     "account.pro": "Tài Khoản Pro",
     "account.team": "Tài Khoản Team",
     "account.email": "Email",
