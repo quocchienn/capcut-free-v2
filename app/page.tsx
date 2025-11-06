@@ -60,24 +60,41 @@ export default function Home() {
           <h2 className="mb-4 sm:mb-6 text-lg font-semibold text-white/80">{t("accounts.title", language)}</h2>
           <div className="grid gap-4 sm:gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
             <AccountCard
-              email="capcut@example.com"
-              password="Demo@12345"
+              email="dasiric611@limtu.com"
+              password="zalo0385531007"
               description={t("account.premium", language)}
               updatedAt="2 mins ago"
               accessCount={45}
               language={language}
             />
             <AccountCard
-              email="capcut.pro@email.com"
-              password="ProEdit2024!"
+              email="xemomi8231@fandoe.com"
+              password="zalo0385531007"
               description={t("account.pro", language)}
               updatedAt="5 mins ago"
               accessCount={32}
               language={language}
+              />
+              <AccountCard
+              email="fofadan875@fandoe.com"
+              password="zalo0385531007"
+              description={t("account.premium", language)}
+              updatedAt="2 mins ago"
+              accessCount={45}
+              language={language}
             />
             <AccountCard
-              email="capcut.team@studio.com"
-              password="TeamStudio#99"
+              email="xeyak78808@fandoe.com"
+              password="zalo0385531007"
+              description={t("account.pro", language)}
+              updatedAt="5 mins ago"
+              accessCount={32}
+              language={language}
+            
+            />
+            <AccountCard
+              email="chưa có"
+              password="chưa có"
               description={t("account.team", language)}
               updatedAt="1 hour ago"
               accessCount={18}
